@@ -2,6 +2,7 @@
 
 Context
 Over the course of a year, the data was scraped from a variety of websites in the Czech Republic and Germany.
+Here I build a model for estimating whether a car is a good buy or a bad buy based on the posting
 
 Content
 The scrapers were tuned slowly over the course of the year and some of the sources were completely unstructured, so as a result the data is dirty, there are missing values and some values are very obviously wrong (e.g. phone numbers scraped as mileage etc.)
